@@ -1,4 +1,0 @@
-FizzBuzzes
-==========
-
-FizzBuzzes
